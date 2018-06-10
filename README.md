@@ -9,6 +9,11 @@ Motion bubble chart in Python : https://github.com/hmelberg/motionchart
 2016 : 78.
 2017 : 69.
 
+![bölgelere göre mutluluk indeksi puanı](https://github.com/nailtosun/Dunya-Mutluluk-Indeksi/blob/master/by_region.PNG)
+
+[grafige geçmek için buraya tıklayınız](https://github.com/nailtosun/Dunya-Mutluluk-Indeksi/blob/master/by_region/notebooks/temp.html)
+
+
 ## Hayat tercihini yapmada özgürlük (Freedom to make life choices )
 
 2014 yılında 144 ülke arasında 104.
