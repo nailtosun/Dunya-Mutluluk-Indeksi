@@ -11,7 +11,9 @@ Motion bubble chart in Python : https://github.com/hmelberg/motionchart
 
 ![bölgelere göre mutluluk indeksi puanı](https://github.com/nailtosun/Dunya-Mutluluk-Indeksi/blob/master/by_region.PNG)
 
-[grafige geçmek için buraya tıklayınız](https://github.com/nailtosun/Dunya-Mutluluk-Indeksi/blob/master/by_region/notebooks/temp.html)
+[grafige geçmek için buraya tıklayınız](http://htmlpreview.github.io/?https://github.com/nailtosun/Dunya-Mutluluk-Indeksi/blob/master/by_region/notebooks/temp.html)
+
+Türkiye için grafik [buraya tıkla](http://htmlpreview.github.io/?https://github.com/nailtosun/Dunya-Mutluluk-Indeksi/blob/master/turkey/notebooks/temp.html)
 
 
 ## Hayat tercihini yapmada özgürlük (Freedom to make life choices )
@@ -53,11 +55,4 @@ Bu veri bana göre en ilginci.  Demokrasi, özgürlük ve mutluluktaki düşüş
 2017 yılında 142 ülke arasında 130.
 
 
-# Bubble Chart
-
-## Grafiği açmak
-
-
-
-## Bölgelere göre mutluluk skoru
 
